@@ -28,7 +28,7 @@
 <br />
 <p align="center">
   <a href="https://www.coursera.org/specializations/discrete-mathematics">
-    <img src="images/logo.png" alt="Logo" width="180" height="80">
+    <img src="images/logo.PNG" alt="Logo" width="180" height="80">
   </a>
 
   <h3 align="center">Introduction to Discrete Mathematics for Computer Science</h3>
@@ -42,7 +42,7 @@ This repository talks about my learnings through coursework that I completed in 
   <a href="https://www.coursera.org/account/accomplishments/specialization/QE727JXWGDVK">
     <img style = "display:inline" src="images/certificate.PNG" alt="Certificate" width="50%" height="50%">
   </a>
-  
+
 Introduction to Discrete Mathematics for Computer Science is a beginner level 5 course specialization which introduces the learner to fundamentally important mathematical concepts for computer science including logic, combinatorics, graph theory, cryptography and approximation algorithms.
 
 </p>
